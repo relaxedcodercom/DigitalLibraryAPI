@@ -9,7 +9,6 @@ project.lock.json
 
 # User-specific files
 *.suo
-*.user
 *.userosscache
 *.sln.docstates
 
